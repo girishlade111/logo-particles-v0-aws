@@ -278,29 +278,6 @@ export default function Component() {
         className="w-full h-full absolute top-0 left-0 touch-none"
         aria-label="Interactive particle effect with Vercel and AWS logos"
       />
-      <div className="absolute bottom-[100px] text-center z-10">
-        <p className="font-mono text-gray-400 text-xs sm:text-base md:text-sm ">
-          Join the{' '}
-          
-          <a 
-            href="https://vercel.fyi/v0-reinvent"
-            target="_blank"
-            className="invite-link text-gray-300 hover:text-cyan-400 transition-colors duration-300"
-          >
-            v0 Happy Hour
-          </a>{' '}
-          <span>at</span>
-          <span className="transition-colors duration-300">
-            {' '}aws re:invent
-          </span> <br /><a href="https://v0.dev/chat/RqstUbkUVcB?b=b_BoU5qmQ0ehp" className="text-gray-500 text-xs mt-2.5 inline-block" target="_blank">(fork this v0)</a>
-        
-          <style>{`
-            a.invite-link:hover + span + span {
-              color: #FF9900;
-            }
-          `}</style>
-        </p>
-      </div>
     </div>
   )
 }
