@@ -473,3 +473,6 @@ Private project — All rights reserved.
 - Styled with [Tailwind CSS](https://tailwindcss.com)
 - UI components from [Radix UI](https://www.radix-ui.com)
 - Deployed on [Vercel](https://vercel.com)
+---
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
